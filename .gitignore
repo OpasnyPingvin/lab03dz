@@ -1,4 +1,3 @@
-# Build directories (любые папки с названием build или _build)
 build/
 _build/
 */build/
@@ -6,33 +5,28 @@ _build/
 **/build/
 **/_build/
 
-# CMake generated files
 CMakeCache.txt
 CMakeFiles/
 cmake_install.cmake
 Makefile
 CMakeUserPresets.json
 
-# Compiled files
 *.o
 *.a
 *.so
 *.exe
 *.out
 
-# Editor files
 *.swp
 *.swo
 *.swn
 *~
 *.bak
 
-# IDE files
 .vscode/
 .idea/
 *.user
 
-# Log files (все .txt файлы, особенно cmb.txt, cmh.txt, chm.txt)
 *.txt
 cmb.txt
 cmh.txt
@@ -40,10 +34,8 @@ chm.txt
 log.txt
 *.log
 
-# OS files
 .DS_Store
 Thumbs.db
 
-# Temporary files
 *.tmp
 *.temp
