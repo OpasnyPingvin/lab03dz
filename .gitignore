@@ -1,2 +1,6 @@
 cmh.txt
 cmb.txt
+*build*/
+*install*/
+*.swp
+.idea/
